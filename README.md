@@ -2,10 +2,10 @@ Ane
 ===
 
 
-  ANE - Another Nios II Emulator é um projeto de emulador para o processador Nios II desenvolvido pela Altera.
-  Este projeto utiliza linguagem java e tenta de modo simples emular um processador Nios II com leitura de entrada com 
-  código hexadecimal para instruções uma vez que não está sendo previsto um compilador no momento.
+  ANE - Another Nios II Emulator is a project for the Nios II processor, developed by Altera.
+  This project is writen in Java and aims to, in a simple way, emulate a Nios processor, reading hexadecimal inputs and interpreting to Assembly operations.
   
-  Projeto para Arquitetura de Computadores - IFRN - Adolfo Freitas - Décio Casagrande - 2012.2 - Prof. Eduardo Bráulio
+  Project developed for the Computers Architecture course - IFRN
+  Adolfo Melo - Décio Casagrande - 2012.2 - Prof. Eduardo Bráulio
   
 ANE
